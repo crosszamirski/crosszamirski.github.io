@@ -2,7 +2,7 @@
 title: "Undergradute Supervisor"
 collection: teaching
 type: "Undergraduate course"
-permalink: [NST Mathematical Biology](https://www.natsci.tripos.cam.ac.uk/subject-information/part1a/qbiol)
+permalink: /teaching/Undergraduate
 venue: "University 1, Department"
 date: 2019-2020
 location: "Cambridge, UK"
