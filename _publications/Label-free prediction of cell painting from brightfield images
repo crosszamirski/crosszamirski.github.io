@@ -1,6 +1,7 @@
 ---
 title: "Label-free prediction of cell painting from brightfield images"
 collection: publications
+permalink: /publication/Label-free prediction of cell painting from brightfield images
 excerpt: 'We investigate label-free Cell Painting by predicting the five fluorescent Cell Painting channels from brightfield input using a Wasserstein GAN'
 date: 2022-06-18
 paperurl: 'https://www.nature.com/articles/s41598-022-12914-x'
