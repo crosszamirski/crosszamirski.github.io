@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **BA** in [Natural Sciences (Physics)](https://www.phy.cam.ac.uk/students/teaching/current-courses/II_overview), University of Cambridge, 2017
-* **MSci** in [Natural Sciences (Phyiscs)](https://www.phy.cam.ac.uk/students/teaching/current-courses/III_overview), University of Cambridge, 2018
-* **PhD** under the supervision of [Professor Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html) in the [Cambridge Image Analysis](http://www.damtp.cam.ac.uk/research/cia/) Group at [DAMTP](https://www.damtp.cam.ac.uk/), University of Cambridge. Co-supervised by [Dr Yinhai Wang](https://scholar.google.com/citations?user=WNY0TscAAAAJ&hl=en) at AstraZeneca, 2022 (expected)
+* **BA** in [Natural Sciences (Physics)](https://www.phy.cam.ac.uk/students/teaching/current-courses/II_overview), University of Cambridge, **2017**
+* **MSci** in [Natural Sciences (Phyiscs)](https://www.phy.cam.ac.uk/students/teaching/current-courses/III_overview), University of Cambridge, **2018**
+* **PhD** under the supervision of [Professor Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html) in the [Cambridge Image Analysis](http://www.damtp.cam.ac.uk/research/cia/) Group at [DAMTP](https://www.damtp.cam.ac.uk/), University of Cambridge. Co-supervised by [Dr Yinhai Wang](https://scholar.google.com/citations?user=WNY0TscAAAAJ&hl=en) at AstraZeneca, **2022 (expected)**
 
 Work experience
 ======
