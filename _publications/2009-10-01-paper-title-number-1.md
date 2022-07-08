@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Label-free prediction of cell painting from brightfield images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We investigate label-free Cell Painting by predicting the five fluorescent Cell Painting channels from brightfield input using a Wasserstein GAN'
+date: 2022-06-18
+paperurl: 'https://www.nature.com/articles/s41598-022-12914-x'
+citation: 'Cross-Zamirski, Jan and Mouchet, Elizabeth and Williams, Guy and Sch{\"o}nlieb, Carola-Bibiane and Turkki, Riku and Wang, Yinhai. Label-free prediction of cell painting from brightfield images. <i>Sci Rep</i> 12, 10001 (2022). https://doi.org/10.1038/s41598-022-12914-x'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.nature.com/articles/s41598-022-12914-x.pdf)
+
+Recommended citation: Cross-Zamirski, Jan and Mouchet, Elizabeth and Williams, Guy and Sch{\"o}nlieb, Carola-Bibiane and Turkki, Riku and Wang, Yinhai. Label-free prediction of cell painting from brightfield images. Sci Rep 12, 10001 (2022). https://doi.org/10.1038/s41598-022-12914-x
