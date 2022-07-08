@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Undergraduate
 venue: "University 1, Department"
-date: 2019-2020
+date: 2020-01-01
 location: "Cambridge, UK"
 ---
 
