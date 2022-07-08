@@ -1,9 +1,9 @@
 ---
 title: "Undergradute Supervisor"
 collection: teaching
-type: "Undergraduate course"
+type: "Natural Sciences Tripos"
 permalink: /teaching/Undergraduate
-venue: "University 1, Department"
+venue: "University of Cambridge"
 date: 2020-01-01
 location: "Cambridge, UK"
 ---
