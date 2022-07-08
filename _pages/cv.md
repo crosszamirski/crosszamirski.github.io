@@ -15,6 +15,12 @@ Education
 * **MSci** in [Natural Sciences (Phyiscs)](https://www.phy.cam.ac.uk/students/teaching/current-courses/III_overview), University of Cambridge, **2018**
 * **PhD** under the supervision of [Professor Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html) in the [Cambridge Image Analysis](http://www.damtp.cam.ac.uk/research/cia/) Group at [DAMTP](https://www.damtp.cam.ac.uk/), University of Cambridge. Co-supervised by [Dr Yinhai Wang](https://scholar.google.com/citations?user=WNY0TscAAAAJ&hl=en) at AstraZeneca, **2022 (expected)**
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,14 +32,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Talks
 ======
   <ul>{% for post in site.talks %}
