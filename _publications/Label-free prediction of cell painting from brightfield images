@@ -4,6 +4,7 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2022-06-18
+venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-022-12914-x'
 citation: 'Cross-Zamirski, Jan and Mouchet, Elizabeth and Williams, Guy and Schoenlieb, Carola-Bibiane and Turkki, Riku and Wang, Yinhai. Label-free prediction of cell painting from brightfield images. <i>Sci Rep</i> 12, 10001 (2022). https://doi.org/10.1038/s41598-022-12914-x'
 ---
