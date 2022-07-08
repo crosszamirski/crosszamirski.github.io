@@ -2,7 +2,7 @@
 title: "Label-free prediction of cell painting from brightfield images"
 collection: publications
 permalink: 
-excerpt: Cell Painting is a high-content image-based assay applied in drug discovery to predict bioactivity, assess toxicity and understand mechanisms of action of chemical and genetic perturbations. We investigate label-free Cell Painting by predicting the five fluorescent Cell Painting channels from brightfield input. We train and validate two deep learning models with a dataset representing 17 batches, and we evaluate on batches treated with compounds from a phenotypic set. The mean Pearson correlation coefficient of the predicted images across all channels is 0.84. Without incorporating features into the model training, we achieved a mean correlation of 0.45 with ground truth features extracted using a segmentation-based feature extraction pipeline. Additionally, we identified 30 features which correlated greater than 0.8 to the ground truth. Toxicity analysis on the label-free Cell Painting resulted a sensitivity of 62.5% and specificity of 99.3% on images from unseen batches. We provide a breakdown of the feature profiles by channel and feature type to understand the potential and limitations of label-free morphological profiling. We demonstrate that label-free Cell Painting has the potential to be used for downstream analyses and could allow for repurposing imaging channels for other non-generic fluorescent stains of more targeted biological interest.
+excerpt: 
 date: 2022-06-18
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-022-12914-x'
