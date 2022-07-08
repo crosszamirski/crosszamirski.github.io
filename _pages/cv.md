@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Natural Sciences (Physics), University of Cambridge, 2017
+* MSci in Natural Sciences (Phyiscs), University of Cambridge, 2018
+* PhD Department of Applied Mathematics and Theoretical Physics, University of Cambridge + AstraZeneca 2022 (expected)
 
 Work experience
 ======
