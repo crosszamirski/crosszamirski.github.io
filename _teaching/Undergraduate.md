@@ -1,5 +1,5 @@
 ---
-title: "Undergradute Supervisor"
+title: "Undergraduate Supervisor"
 collection: teaching
 type: "Natural Sciences Tripos"
 permalink: /teaching/Undergraduate
