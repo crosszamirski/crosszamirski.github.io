@@ -7,7 +7,7 @@ author_profile: true
 
 1. <span style="color:blue">Self-Supervised Learning of Phenotypic Representations from Cell Images with Weak Labels</span>  
 **Jan Cross-Zamirski**, Elizabeth Mouchet, Guy Williams, Carola-Bibiane Schönlieb, Riku Turkki, Yinhai Wang  
-arXiv Preprint (2022). [(https://doi.org/10.48550/arXiv.2209.07819](https://doi.org/10.1038/s41598-022-12914-x)      
+arXiv Preprint (2022). [https://doi.org/10.48550/arXiv.2209.07819](https://doi.org/10.48550/arXiv.2209.07819)     
 [<button type="button" class="btn btn-info" style="background-color:orange">pdf</button>](https://arxiv.org/pdf/2209.07819.pdf)
 
 
