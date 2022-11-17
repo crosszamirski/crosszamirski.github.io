@@ -14,5 +14,5 @@ I am PhD student under the supervision of [Professor Carola-Bibiane Schönlieb](
 
 My research interests include:
   - Using multi-modal data and image metadata to adapt and enhance models in applied computer vision tasks
-  - Self-supervised learning, representation learning, Image-to-Image tasks
+  - Self-supervised learning, representation learning, image-to-image tasks
   - Image-level models applied to cell microscopy data for drug discovery
