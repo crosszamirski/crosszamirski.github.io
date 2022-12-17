@@ -184,9 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  xmas22:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 
