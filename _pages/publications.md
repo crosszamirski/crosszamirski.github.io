@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. <span style="color:blue">Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels</span>  
-**Jan Cross-Zamirski**, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang , Carola-Bibiane Schönlieb
+**Jan Cross-Zamirski**, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb
 *arXiv Preprint* (2023). [https://doi.org/10.48550/arXiv.2303.08863](https://doi.org/10.48550/arXiv.2303.08863)   
 [<button type="button" class="btn btn-info" style="background-color:orange">pdf</button>](https://arxiv.org/pdf/2303.08863.pdf) [<button type="button" class="btn btn-info" style="background-color:orange">code</button>](https://github.com/crosszamirski/guided-I2I)
 
